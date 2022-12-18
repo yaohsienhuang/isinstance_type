@@ -1,5 +1,8 @@
 # isinstance type
-實作一個辨別 class 或 fuction 中的 argument type 的裝飾器
+* 實作一個辨別 class 或 fuction 中的 argument type 的裝飾器
+* 使用 python assert 實作
+* 範例中引用 ＠dataclass 裝飾器自動建立執行 init
+
 ## 使用方式：
 ```python=
 from dataclasses import dataclass
